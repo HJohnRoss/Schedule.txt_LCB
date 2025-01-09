@@ -1,0 +1,3 @@
+1st line: Is the title in the middle
+every new line after the 1st is a new line on the widget
+see example on example.txt

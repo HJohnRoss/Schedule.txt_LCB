@@ -1,0 +1,8 @@
+Schedule
+Test Meeting    |    B10 - 168    |    8:00  AM
+Test Meeting    |    B17 - 138    |    2:00  PM
+Test Meeting    |    B17 - 111    |    9:00  AM
+Test Meeting    |    B17 - 123    |    2:00  PM
+Test Meeting    |    B17 - 133    |    12:00 AM
+Test Meeting    |    B17 - 188    |    12:00 AM
+Test Meeting    |    B17 - 199    |    1:00  PM
